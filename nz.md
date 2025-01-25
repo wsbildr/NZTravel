@@ -61,8 +61,10 @@
 其他觀光點：
 - 奧克蘭戰爭紀念博物館 
 - National Library Auckland
-- 南島第㇐大湖 [Lake Te Anau](https://yanziaart.com/solotravel_nz_d25_te-anau_to_milford_sound/)
 - 密蜂農場
+- Te Waihou Walkway Blue Spring
+- Piha beach
+- Bethells Beach
 - 
 ----
 TODO LIST:
@@ -74,5 +76,5 @@ TODO LIST:
 - [x] 一晚瓦納卡 Wanaka 住宿
 - [x] 一晚 Lake Matheson 住宿
 - [x] 一晚基督城住宿
-- [ ] NZeTA 電子旅遊許可
+- [x] NZeTA 電子旅遊許可
 - [ ] 非觸式e道
