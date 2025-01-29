@@ -77,4 +77,4 @@ TODO LIST:
 - [x] 一晚 Lake Matheson 住宿
 - [x] 一晚基督城住宿
 - [x] NZeTA 電子旅遊許可
-- [ ] 非觸式e道
+- [x] 非觸式e道
