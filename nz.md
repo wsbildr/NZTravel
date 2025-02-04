@@ -4,6 +4,8 @@
  
 ### 確定主要城巿，再決定週邊及沿路觀光點。
 
+### 保持旅行輕鬆心態，不用趕進度，不用貪心要多去景點，隨喜觀光。
+
 09.04.2025
 - [ ] 15:35 到達奧克蘭
 
@@ -51,10 +53,12 @@
 - [ ] 16:30 到達奧克蘭
 
 20.04.2025
-- [ ] 未定
+- [ ] Te Waihou Walkway Blue Spring
+- [ ] 住宿
 
 21.04.2025
-- [ ] 未定
+- [ ] Te Waihou Walkway Blue Spring
+- [ ] 返回奧克蘭
 
 22.04.2025
 - [ ] 18:30離開奧克蘭
@@ -63,7 +67,6 @@
 - 奧克蘭戰爭紀念博物館 
 - National Library Auckland
 - 密蜂農場
-- Te Waihou Walkway Blue Spring
 - Piha beach
 - Bethells Beach
 - 
