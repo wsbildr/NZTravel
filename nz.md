@@ -80,5 +80,6 @@ TODO LIST:
 - [x] 一晚瓦納卡 Wanaka 住宿
 - [x] 一晚 Lake Matheson 住宿
 - [x] 一晚基督城住宿
+- [x] 一晚 Blue Spring 住宿
 - [x] NZeTA 電子旅遊許可
 - [x] 非觸式e道
