@@ -24,6 +24,7 @@
 14.04.2025
 - [ ] 15:40 離開奧克蘭
 - [ ] 17:35 到達皇后鎮
+- [ ] 租車
 - [ ] Melbourne Lodge第一晚住宿
 
 15.04.2025
@@ -31,7 +32,6 @@
 - [ ] Melbourne Lodge第一晚住宿
 
 16.04.2025
-- [ ] 租車
 - [ ] 瓦纳卡薰衣草农场 Wanaka Lavender Farm
 - [ ] 瓦納卡迷宮世界 Puzzling World
 - [ ] Brownston Hostel住宿
@@ -54,7 +54,7 @@
 
 20.04.2025
 - [ ] Te Waihou Walkway Blue Spring
-- [ ] 住宿
+- [ ] 往 Rotorua 鎮住宿
 
 21.04.2025
 - [ ] Te Waihou Walkway Blue Spring
@@ -74,7 +74,7 @@
 TODO LIST:
 - [x] 買由奧克蘭至皇后鎮機票
 - [x] 買由基督城至奧克蘭機票
-- [ ] 租車
+- [x] 租車
 - [x] 買由格雷茅斯至基督城火車票
 - [x] 兩晚皇后鎮住宿
 - [x] 一晚瓦納卡 Wanaka 住宿
