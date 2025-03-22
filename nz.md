@@ -54,10 +54,13 @@
 
 20.04.2025
 - [ ] Te Waihou Walkway Blue Spring
+- [ ] Tree Church
+- [ ] Mãori museum
 - [ ] 往 Rotorua 鎮住宿
 
 21.04.2025
-- [ ] Te Waihou Walkway Blue Spring
+- [ ] Waikite Vallery Hot Pools
+- [ ] Waiotapu Thermal
 - [ ] 返回奧克蘭
 
 22.04.2025
