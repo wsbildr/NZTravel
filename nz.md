@@ -72,7 +72,6 @@
 - 密蜂農場
 - Piha beach
 - Bethells Beach
-- 
 ----
 TODO LIST:
 - [x] 買由奧克蘭至皇后鎮機票
