@@ -29,7 +29,7 @@
 
 15.04.2025
 - [ ] 峽灣國家公園 Milford Sounds
-- [ ] Melbourne Lodge第一晚住宿
+- [ ] Melbourne Lodge第二晚住宿
 
 16.04.2025
 - [ ] 瓦纳卡薰衣草农场 Wanaka Lavender Farm
