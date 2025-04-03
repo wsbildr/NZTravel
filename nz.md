@@ -1,7 +1,9 @@
 # 紐西蘭之旅
 
 ## 2025年4月9至22日
- 
+
+![NZ Map](https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/D673/production/_128399845_bbcm_new-zealand_country_profile_map_240123.png.webp)
+
 ### 確定主要城巿，再決定週邊及沿路觀光點。
 
 ### 保持旅行輕鬆心態，不用趕進度，不用貪心要多去景點，隨喜觀光。
