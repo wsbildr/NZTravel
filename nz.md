@@ -12,21 +12,27 @@
 - [ ] 15:35 到達奧克蘭
 
 10.04.2025
-- [ ] 未定
+- [ ] 附近 beaches
+- [ ] NewMarket, Parnell (National Library)
+- [ ] Sky city, Art Gallery
 
 11.04.2025
+- [ ] Domain
 - [ ] 奧克蘭戰爭紀念博物館
 
 12.04.2025
 - [ ] 參與繪畫班
+- [ ] supermarket?
 
 13.04.2025
-- [ ] 未定
+- [ ] church?
+- [ ] Piha / Bethells beach / Muriwai
 
 14.04.2025
 - [ ] 15:40 離開奧克蘭
 - [ ] 17:35 到達皇后鎮
 - [ ] 租車
+- [ ] town visit
 - [ ] Melbourne Lodge第一晚住宿
 
 15.04.2025
@@ -34,31 +40,38 @@
 - [ ] Melbourne Lodge第二晚住宿
 
 16.04.2025
+- [ ] Arrowtown (河边野餐)
 - [ ] 瓦纳卡薰衣草农场 Wanaka Lavender Farm
 - [ ] 瓦納卡迷宮世界 Puzzling World
+- [ ] That Wanaka Tree
 - [ ] Brownston Hostel住宿
 
 17.04.2025
+- [ ] Maybe Lake Tekapo / Lake Pukaki
 - [ ] 駕車3.5小時
 - [ ] Lake Matheson
 - [ ] Sunset Motel住宿
 
 18.04.2025
-- [ ] 駕車3小時
+- [ ] early morning mystery Lake view
+- [ ] 駕車3小時(9am出發)
 - [ ] 到達格雷茅斯 Greymouth
 - [ ] 14:15火車從格雷茅斯出發
 - [ ] 19:00到達基督城
+- [ ] city town visit
 - [ ] Breakfree on cashel 住宿
 
 19.04.2025
+- [ ] 基督城 town visit
 - [ ] 15:05 離開基督城
 - [ ] 16:30 到達奧克蘭
 
 20.04.2025
-- [ ] Te Waihou Walkway Blue Spring
+- [ ] Hamilton
 - [ ] Tree Church
+- [ ] Te Waihou Walkway Blue Spring
 - [ ] Mãori museum
-- [ ] 往 Rotorua 鎮住宿
+- [ ] 往 Marsden Stay Rotorua 鎮住宿
 
 21.04.2025
 - [ ] Waikite Vallery Hot Pools
