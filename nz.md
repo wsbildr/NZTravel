@@ -12,8 +12,8 @@
 - [x] 15:35 到達奧克蘭
 
 10.04.2025
-- [ ] 附近 beaches
-- [ ] NewMarket, Parnell (National Library)
+- [x] 附近 beaches
+- [x] NewMarket, Parnell 
 - [ ] Sky city, Art Gallery
 
 11.04.2025
