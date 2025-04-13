@@ -25,8 +25,8 @@
 - [ ] supermarket?
 
 13.04.2025
-- [ ] church?
-- [ ] Piha / Bethells beach / Muriwai
+- [x] church?
+- [x] Bethells beach / Muriwai
 
 14.04.2025
 - [ ] 15:40 離開奧克蘭
