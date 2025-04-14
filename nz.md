@@ -36,7 +36,8 @@
 - [ ] Melbourne Lodge第一晚住宿
 
 15.04.2025
-- [ ] 峽灣國家公園 Milford Sounds
+- [ ] doubful sound?
+- [ ] lake te anau
 - [ ] Melbourne Lodge第二晚住宿
 
 16.04.2025
