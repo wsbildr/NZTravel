@@ -29,8 +29,10 @@
 - [x] Bethells beach / Muriwai
 
 14.04.2025
-- [ ] 15:40 離開奧克蘭
+- [x] 15:40 離開奧克蘭
 - [ ] 17:35 到達皇后鎮
+- [x] 18:45 landing Invercargill Airport
+- [x] 19:23 goto 皇后鎮 by bus
 - [ ] 租車
 - [ ] town visit
 - [ ] Melbourne Lodge第一晚住宿
