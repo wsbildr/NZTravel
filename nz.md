@@ -33,7 +33,7 @@
 - [ ] 17:35 到達皇后鎮
 - [x] 18:45 landing Invercargill Airport
 - [x] 19:23 goto 皇后鎮 by bus
-- [ ] 租車
+- [x] 租車
 - [x] Melbourne Lodge第一晚住宿
 
 15.04.2025
