@@ -34,12 +34,12 @@
 - [x] 18:45 landing Invercargill Airport
 - [x] 19:23 goto 皇后鎮 by bus
 - [ ] 租車
-- [ ] town visit
-- [ ] Melbourne Lodge第一晚住宿
+- [x] Melbourne Lodge第一晚住宿
 
 15.04.2025
+- [x] town visit
 - [ ] doubful sound?
-- [ ] lake te anau
+- [x] lake te anau
 - [ ] Melbourne Lodge第二晚住宿
 
 16.04.2025
