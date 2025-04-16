@@ -40,14 +40,14 @@
 - [x] town visit
 - [ ] doubful sound?
 - [x] lake te anau
-- [ ] Melbourne Lodge第二晚住宿
+- [x] Melbourne Lodge第二晚住宿
 
 16.04.2025
-- [ ] Arrowtown (河边野餐)
+- [x] Arrowtown (河边野餐)
 - [ ] 瓦纳卡薰衣草农场 Wanaka Lavender Farm
-- [ ] 瓦納卡迷宮世界 Puzzling World
-- [ ] That Wanaka Tree
-- [ ] Brownston Hostel住宿
+- [x] 瓦納卡迷宮世界 Puzzling World
+- [x] That Wanaka Tree
+- [x] Brownston Hostel住宿
 
 17.04.2025
 - [ ] Maybe Lake Tekapo / Lake Pukaki
