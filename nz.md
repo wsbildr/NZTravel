@@ -51,9 +51,9 @@
 
 17.04.2025
 - [ ] Maybe Lake Tekapo / Lake Pukaki
-- [ ] 駕車3.5小時
-- [ ] Lake Matheson
-- [ ] Sunset Motel住宿
+- [x] 駕車3.5小時
+- [x] Lake Matheson
+- [x] Sunset Motel住宿
 
 18.04.2025
 - [ ] early morning mystery Lake view
