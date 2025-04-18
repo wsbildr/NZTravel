@@ -56,10 +56,10 @@
 - [x] Sunset Motel住宿
 
 18.04.2025
-- [ ] early morning mystery Lake view
-- [ ] 駕車3小時(9am出發)
-- [ ] 到達格雷茅斯 Greymouth
-- [ ] 14:15火車從格雷茅斯出發
+- [x] early morning mystery Lake view
+- [x] 駕車3小時(9am出發)
+- [x] 到達格雷茅斯 Greymouth
+- [x] 14:15火車從格雷茅斯出發
 - [ ] 19:00到達基督城
 - [ ] city town visit
 - [ ] Breakfree on cashel 住宿
