@@ -25,7 +25,7 @@
 - [ ] supermarket?
 
 13.04.2025
-- [x] church?
+- [x] church
 - [x] Bethells beach / Muriwai
 
 14.04.2025
@@ -66,12 +66,11 @@
 
 19.04.2025
 - [x] 基督城 town visit
-- [ ] 15:05 離開基督城
-- [ ] 16:30 到達奧克蘭
+- [x] 15:05 離開基督城
+- [ ] 17:00 到達奧克蘭
 
 20.04.2025
 - [ ] Hamilton
-- [ ] Tree Church
 - [ ] Te Waihou Walkway Blue Spring
 - [ ] Mãori museum
 - [ ] 往 Marsden Stay Rotorua 鎮住宿
@@ -88,7 +87,9 @@
 其他觀光點：
 - 密蜂農場
 - Piha beach
-- Bethells Beach
+- 蜂膠
+- 藥材舖
+- 淘寶店
 ----
 TODO LIST:
 - [x] 買由奧克蘭至皇后鎮機票
