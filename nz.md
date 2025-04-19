@@ -60,12 +60,12 @@
 - [x] 駕車3小時(9am出發)
 - [x] 到達格雷茅斯 Greymouth
 - [x] 14:15火車從格雷茅斯出發
-- [ ] 19:00到達基督城
-- [ ] city town visit
-- [ ] Breakfree on cashel 住宿
+- [x] 19:00到達基督城
+- [x] city town visit
+- [x] Breakfree on cashel 住宿
 
 19.04.2025
-- [ ] 基督城 town visit
+- [x] 基督城 town visit
 - [ ] 15:05 離開基督城
 - [ ] 16:30 到達奧克蘭
 
