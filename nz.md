@@ -71,6 +71,7 @@
 
 20.04.2025
 - [ ] Hamilton
+- [ ] tirau
 - [ ] Te Waihou Walkway Blue Spring
 - [ ] Mãori museum
 - [ ] 往 Marsden Stay Rotorua 鎮住宿
