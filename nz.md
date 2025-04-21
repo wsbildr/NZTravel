@@ -70,27 +70,27 @@
 - [ ] 17:00 到達奧克蘭
 
 20.04.2025
-- [ ] Hamilton
-- [ ] tirau
-- [ ] Te Waihou Walkway Blue Spring
-- [ ] Mãori museum
-- [ ] 往 Marsden Stay Rotorua 鎮住宿
+- [x] Hamilton
+- [x] tirau
+- [x] Te Waihou Walkway Blue Spring
+- [x] 往 Marsden Stay Rotorua 鎮住宿
 
 21.04.2025
+- [x] Mãori museum
 - [ ] Waikite Vallery Hot Pools
 - [ ] Waiotapu Thermal
-- [ ] 返回奧克蘭
+- [x] 返回奧克蘭
 
 22.04.2025
+- [ ] 蜂膠
+- [ ] 藥材舖
+- [ ] 淘寶店
 - [ ] National Library Auckland
 - [ ] 21:00離開奧克蘭
 ----
 其他觀光點：
 - 密蜂農場
 - Piha beach
-- 蜂膠
-- 藥材舖
-- 淘寶店
 ----
 TODO LIST:
 - [x] 買由奧克蘭至皇后鎮機票
